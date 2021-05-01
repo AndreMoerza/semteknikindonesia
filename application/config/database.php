@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	// 'hostname' => '/cloudsql/theta-kingdom-310307:us-central1:dbsemteknikindo',
-	'hostname' => 'localhost',
+	'hostname' => '/cloudsql/theta-kingdom-310307:us-central1:dbsemteknikindo',
+	//'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'dbsemteknikindo',
